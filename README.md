@@ -28,7 +28,7 @@ In this project, I used Microsoft SQL Server 2019 to analyze the global covid-19
 
 Tableau Public was used to visualize this data.
 
-![My Image](images/Covid-19 Dashboard.png)
+![My Image](https://github.com/oladayotimileyin/Covid-19-Analysis---SQL/blob/a4d4d28ec134ab6688caa2110a56672da7332513/images/Covid-19%20Dashboard.png)
 
 You can see the dashboard by following this [link](https://public.tableau.com/views/Covid-19Dashboard_16695628198640/Covid-19Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
 
